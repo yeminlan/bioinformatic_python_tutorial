@@ -8,4 +8,5 @@ Including step by step python scripts to:
 - delete N's in fasta file
 - format fasta file so that each read takes two lines (header & seq)
 - count number of bases for each read, output a tab-separated values (TSV) file
-
+- get reverse complement DNA sequences
+- translate nucleotides to proteins
