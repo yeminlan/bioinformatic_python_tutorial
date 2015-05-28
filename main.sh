@@ -19,3 +19,9 @@ python format.py removeN.fasta format.fasta
 #06. count number of bases for each read, output a tab-separated values (TSV) file
 python countbase.py format.fasta countbase.tsv
 
+#07. get reverse complement seqs for nucleotides
+python revcom.py format.fasta revcom.fasta
+
+#08. translate the nucleotides to proteins
+python translate.py revcom.fasta translate.faa
+
