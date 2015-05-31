@@ -1,7 +1,8 @@
 # bioinformatic_python_tutorial
-> Tutorial for sequence handling using python
 
-> Including step by step python scripts to (main.sh):
+* Tutorial for sequence handling using python
+
+* Including step by step python scripts to (main.sh):
 - concatenate forward and reverse fastq files
 - extract reads whose barcode start with A or T (for the sack of practice) 
 - convert fastq to fasta file 
@@ -11,4 +12,4 @@
 - get reverse complement DNA sequences
 - translate nucleotides to proteins
 
-> Using BioPython to do the same steps (biopython_tutorial.py).
+* Using BioPython to do the same steps (biopython_tutorial.py).
