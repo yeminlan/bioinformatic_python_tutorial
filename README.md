@@ -2,7 +2,7 @@
 
 Tutorial for sequence handling using python
 
-Including step by step python scripts to (`main.sh <https://github.com/yeminlan/bioinformatic_python_tutorial/blob/master/main.sh>`):
+Including step by step python scripts to (main.sh):
 - concatenate forward and reverse fastq files
 - extract reads whose barcode start with A or T (for the sack of practice) 
 - convert fastq to fasta file 
