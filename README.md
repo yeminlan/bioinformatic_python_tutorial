@@ -1,5 +1,5 @@
 # bioinformatic_python_tutorial
-===============
+
 Tutorial for sequence handling using python
 
 Including step by step python scripts to (main.sh):
